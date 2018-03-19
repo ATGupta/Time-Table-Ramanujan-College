@@ -1,0 +1,31 @@
+welcome
+enter		display time table	display teachers
+					display department
+								display subject
+										year and section
+					display room
+
+		edit			no. of slots
+					start time
+					
+					add department
+					password
+					
+					enter department
+					password
+								add teachers
+								remove teachers
+								add rooms
+								remove rooms
+								add subject year section
+								remove subject year section
+								add paper
+								remove paper
+								master time table
+												select subject
+														according to slot
+															days
+															write paper
+															select days
+															select teacher
+														assign room
